@@ -1,6 +1,6 @@
 # Jiaqing (Allen) Liu
 
-I’m a second-year PhD student in Computer Science & Engineering at the University of Notre Dame, advised by [Tingyu Cheng](https://tingyucheng.com/about) in the [Internet of Matter Lab](https://www.internetofmatter.org/). My research follows two threads:
+I’m a second-year PhD student in Computer Science & Engineering at the University of Notre Dame. My research follows two threads:
 
 - **Multimodal AI for health:** foundation models that learn efficient representations from multimodal wearable data, and AI agents that reason over these signals for health monitoring and improvement.
 - **Health sensing:** turning everyday objects (e.g., clothing, glasses, and necklaces) into wearable sensors that capture health signals unobtrusively and continuously in daily life.
